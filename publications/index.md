@@ -4,7 +4,10 @@ title: Publications
 ---
 
 ## Journal Papers
-- Skaskevych, A., Lee, J., Jung, H.C., Bolten, J., David, J.L., Policelli, F.S., Goni, I.B., Guillaume, F., San, S., Ichoku, C. (2020). __"Application of GRACE to the estimation of groundwater storage change in a data‐poor region: A case study of Ngadda catchment in the Lake Chad Basin."__  Hydrological Processes 34 (4), 941-955 \[[PDF]({{ "/assets/papers/wall-climbing.pdf" | absolute_url }})\]
+- Skaskevych, A., Lee, J., Jung, H.C., Bolten, J., David, J.L., Policelli, F.S., Goni, I.B., Guillaume, F., San, S., Ichoku, C. (2020). __"Application of GRACE to the estimation of groundwater storage change in a data‐poor region: A case study of Ngadda catchment in the Lake Chad Basin."__  Hydrological Processes 34 (4), 941-955 \[[PDF]({{ "/assets/papers/Skaskevych_EtAl_Wiley_Grace_Publication.pdf" | absolute_url }})\]
+
+- M Brandt, M., Rasmussen, K., Hiernaux, P., Herrmann, S., Tucker, C.J., Tong, X., Tian, F., Mertz, O., Kergoat, L., Mbow, C., David, J.L., Melocik, K.A., Dendoncker, M., Vincke, C., Fensholt, R. (2018) __"Reduction of tree cover in West African woodlands and promotion in semi-arid farmlands."__ Nature Geoscience 11 (5), 328-333
+
 
 ## Book Chapters
 
@@ -35,9 +38,6 @@ title: Publications
 --------------------------
 
 
-Reduction of tree cover in West African woodlands and promotion in semi-arid farmlands
-M Brandt, K Rasmussen, P Hiernaux, S Herrmann, CJ Tucker, X Tong, ...
-Nature Geoscience 11 (5), 328-333	61	2018
 
 Using cloud bursting to count trees and shrubs in Sub-Saharan Africa
 M Requa, G Vaughan, J David, B Cotton
