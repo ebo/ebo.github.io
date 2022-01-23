@@ -9,37 +9,24 @@ title: Publications
 
 - Brandt, M., Rasmussen, K., Hiernaux, P., Herrmann, S., Tucker, C.J., Tong, X., Tian, F., Mertz, O., Kergoat, L., Mbow, C., David, J.L., Melocik, K.A., Dendoncker, M., Vincke, C., Fensholt, R. (2018). __"Reduction of tree cover in West African woodlands and promotion in semi-arid farmlands."__ Nature Geoscience 11 (5), 328-333 \[[PDF]({{ "/assets/papers/nihms-1502896.pdf" | absolute_url }})\]
 
-- Using cloud bursting to count trees and shrubs in Sub-Saharan Africa
-M Requa, G Vaughan, J David, B Cotton
-2016 IEEE International Conference on Big Data (Big Data), 2960-2963	1	2016
+- EZZINE, A., ABIDI, S., LAZREG, A., Sinan BACHA, S., Hamadi HABAIEB, H., Ali, A.B.H., Policelli, F.S., Habib, S., David, J.L. (2014).  __"Sensitivity analysis of the flood forecasting with crest model in the upstream of Medjerda river (Tunisia)."__ J Remote Sens GIS 2 (2) \[[PDF]({{ "/assets/papers/2014_2_2_EZZIN_Sensi.pdf" | absolute_url }})\]
 
-- Hydrogeologic Aspects of GRACE Modeling: A Case Study of the Upper Mississippi Basin
-A Skaskevych, J Lee, FS Policelli, JD Bolten, JL David
-AGU Fall Meeting Abstracts 2014, H41E-0880		2014
+- Zou, Y., Jiang, M., Yu, X., Lu, X., David, J.L., Wu, H. (2011). __"Distribution and biological cycle of iron in freshwater peatlands of Sanjiang Plain, Northeast China."__ Geoderma 164 (3-4), 238-248
 
-- Sensitivity analysis of the flood forecasting with crest model in the upstream of Medjerda river (Tunisia)
-A EZZINE, S ABIDI, A LAZREG, S BACHA, H HABAIEB, ABH Ali, ...
-J Remote Sens GIS 2 (2), 2014	1	2014
+- Wu, J., David, J.L. (2002). __"A spatially explicit hierarchical approach to modeling complex ecological systems: theory and applications."__ Ecological modelling 153 (1-2), 7-26 \[[PDF]({{ "/assets/papers/Wu2002SEH.pdf" | absolute_url }})\]
 
-- Utilizing Multi-Sensor Data Products and high-resolution flood model in Analyzing North African Hydrological Processes
-K Thengumthara, F Policelli, S Habib, JL David, KA Melocik, GJ Huffman, ...
-AGU Fall Meeting Abstracts 2013, H32F-05		2013
+- Hargis, C.D., Bissonette, J.A.,  David, J.L. (1998). __"The behavior of landscape metrics commonly used in the study of habitat fragmentation."__ Landscape ecology 13 (3), 167-186 \[[PDF]({{ "/assets/papers/Hargis1998BLM.pdf" | absolute_url }})\]
 
-- Distribution and biological cycle of iron in freshwater peatlands of Sanjiang Plain, Northeast China
-Y Zou, M Jiang, X Yu, X Lu, JL David, H Wu
-Geoderma 164 (3-4), 238-248	14	2011
+- Milne, B.T., Johnson, A.R., Keitt, T.H., Hatfield, C.A., David, J., Hraber, P.T. (1996). __"Detection of critical densities associated with piñon‐juniper woodland ecotones."__ Ecology 77 (3), 805-821 \[[PDF]({{ "/assets/papers/Milne1996DCD.pdf" | absolute_url }})\]
 
-- A spatially explicit hierarchical approach to modeling complex ecological systems: theory and applications
-J Wu, JL David
-Ecological modelling 153 (1-2), 7-26	653	2002
+## Conference Papers
 
-- The behavior of landscape metrics commonly used in the study of habitat fragmentation
-CD Hargis, JA Bissonette, JL David
-Landscape ecology 13 (3), 167-186	923	1998
+- Requa, M. Vaughan, G., David, J., Cotton, B. (20166). __"Using cloud bursting to count trees and shrubs in Sub-Saharan Africa."__ 2016 IEEE International Conference on Big Data (Big Data), 2960-2963
 
-- Detection of critical densities associated with piñon‐juniper woodland ecotones
-BT Milne, AR Johnson, TH Keitt, CA Hatfield, J David, PT Hraber
-Ecology 77 (3), 805-821 1996
+- Skaskevych, A., Lee, J., Policelli, F.S., Bolten, J.D., David, J.L. (2014). __"Hydrogeologic Aspects of GRACE Modeling: A Case Study of the Upper Mississippi Basin."__ AGU Fall Meeting Abstracts 2014, H41E-0880
+
+- Thengumthara, K., Policelli, F., Habib, S., David, J.L.,  Melocik, K.A.,  Huffman, G.J., ... (2013). __"Utilizing Multi-Sensor Data Products and high-resolution flood model in Analyzing North African Hydrological Processes."__
+AGU Fall Meeting Abstracts 2013, H32F-05
 
 ## Book Chapters
 
