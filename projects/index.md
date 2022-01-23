@@ -2,6 +2,7 @@
 layout: default
 title: Projects
 ---
+<!--
 ## Research Internship @ Autodesk AI and Robotics Lab
 - CAD Informed Adaptive Robotic Assembly; Developed an Assembly Motion Planner Algorithm; Python plugin for Fusion 360
 - Integrated a concave-concave mesh collision library (C++) with In-house Robotic Environment; Impacted three research projects
@@ -54,3 +55,4 @@ title: Projects
 
 - ### Interactive Manipulation of NURBS Surfaces
   - QT5, OpenGL based implementation in C++ for interactive manipulation of Non Uniform Rational B-Spline Surfaces.
+-->
